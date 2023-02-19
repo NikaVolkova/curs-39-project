@@ -1,5 +1,6 @@
 import React from "react";
 export const OpenedMenu = ({width='24',height='24',fill='#ffffff'})=>{
+
     return (
         <svg 
         width={width} 
